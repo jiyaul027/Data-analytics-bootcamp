@@ -1,0 +1,31 @@
+Day 1 – Data Analytics Bootcamp
+
+Today’s focus: Setting up my environment and understanding the roadmap.
+
+What I did today:
+- Installed Anaconda for managing Python packages and environments.
+- Set up VS Code as my main code editor.
+- Explored Google Colab for running notebooks online.
+- Reviewed the roadmap for the entire bootcamp to plan my learning path.
+
+Tools Installed:
+- Anaconda: Makes it easy to manage Python and data science libraries.
+- VS Code: Lightweight, flexible code editor with great extensions.
+- Google Colab: Free, cloud-based Jupyter notebooks for quick prototyping.
+
+Bootcamp Roadmap (Outline of what I’ll cover over the next few weeks):
+1. Python Basics – variables, data types, control flow
+2. Data Analysis – pandas, numpy
+3. Data Visualization – matplotlib, seaborn
+4. Statistics & Probability – foundations for analysis
+5. SQL for Data – querying and joining data
+6. Real-world Projects – applying all the skills
+7. Sharing Work on GitHub – building my portfolio
+
+Reflections:
+Starting is the most important step. Today was about laying the foundation and getting my tools ready. Excited for what’s next!
+
+Next Up (Day 2 Preview):
+- Setting up my first Python notebook.
+- Running basic Python code.
+- Exploring JupyterLab/Colab features in more detail.
